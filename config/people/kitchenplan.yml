@@ -11,3 +11,4 @@ attributes:
             - git-extras
         cask_apps:
             - sourcetree
+            - atom
