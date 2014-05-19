@@ -7,3 +7,4 @@ attributes:
             - git-flow
         cask_apps:
             - slack
+            - atom
