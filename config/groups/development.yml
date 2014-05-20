@@ -1,0 +1,12 @@
+recipes:
+    mac_os_x:
+      - rvm::default
+attributes:
+    homebrewalt:
+      apps:
+          - git-extras
+      cask_apps:
+          - slack
+          - atom
+          - kaleidoscope
+          - alfred
