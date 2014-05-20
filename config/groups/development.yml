@@ -1,6 +1,6 @@
 recipes:
     mac_os_x:
-      - rvm::system
+      - rvm::default
 attributes:
     homebrewalt:
       apps:
