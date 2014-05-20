@@ -8,8 +8,9 @@ attributes:
       cask_apps:
           - slack
           - atom
-          - kaleidoscope
+          - kaleidoscope #Kaleidoscope code merge tool (paid licence)
           - alfred
           - google-chrome
           - virtualbox
           - vagrant
+          - chefdk #Install Chef and tools
