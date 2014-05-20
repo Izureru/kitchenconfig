@@ -10,3 +10,6 @@ attributes:
           - atom
           - kaleidoscope
           - alfred
+          - google-chrome
+          - virtualbox
+          - vagrant
