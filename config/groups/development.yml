@@ -13,4 +13,5 @@ attributes:
           - google-chrome
           - virtualbox
           - vagrant
-          - chefdk #Install Chef and tools
+          - chefdk #Install Chef and tools such as knife and kitchen
+          - totalterminal
