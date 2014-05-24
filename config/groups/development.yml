@@ -15,3 +15,4 @@ attributes:
           - vagrant
           - chefdk #Install Chef and tools such as knife and kitchen
           - totalterminal
+          - appcode
